@@ -17,7 +17,7 @@ const server = http.createServer(async (req, res) => {
 
   if (path === "/") {
     console.log("Home page requested");
-    sendText(res, 200, "SCC JD Azure App Service lab is running.");
+    sendText(res, 200, "'Quy update - SCC JD Azure App Service lab is running.");
     return;
   }
 
