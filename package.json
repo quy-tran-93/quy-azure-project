@@ -1,7 +1,7 @@
 {
   "name": "scc-jd-node-lab",
   "version": "1.0.0",
-  "description": "Small Azure App Service lab app for SCC JD preparation.",
+  "description": "(Quy)Small Azure App Service lab app for SCC JD preparation.",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
